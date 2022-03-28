@@ -3,7 +3,7 @@
 🙋 Hi! I am a web developer using java<br>
 I'm not good enough, but I'm dreaming of becoming a great developer🐣😎
 
-I love traveling🛫 and camping⛺ and hope to be a great developer every day⭐💪
+I love traveling🛫 and camping⛺ and hope to be a great developer every day⭐�
 
 <img src="https://img.shields.io/badge/parkhye10041233@gmail.com-EA4335?style=flat-square&logo=parkhye10041233@gmail.com&logoColor=white"/>
 
