@@ -10,7 +10,7 @@ I love traveling🛫 and camping⛺ and hope to be a great developer every day�
 
 
 
-💪 <h1>Skills<h1>
+💪 <h1>Skills</h1>
 <br>
 Platforms & Languages
 <br>
