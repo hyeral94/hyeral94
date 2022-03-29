@@ -31,7 +31,7 @@ I love traveling🛫 and camping⛺ and hope to be a great developer every day�
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </div>  
-<br>
+<hr>
 
 🐱 number of visitors 
 <br>
