@@ -45,4 +45,5 @@ I love traveling🛫 and camping⛺ and hope to be a great developer every day�
 
 <br>
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=juju10041233)](https://solved.ac/juju10041233)
+👀
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={juju10041233)](https://solved.ac/{juju10041233})
