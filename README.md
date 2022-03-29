@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=hye kyung &fontSize=90)
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there &fontSize=90)
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=%20hye kyung🐶👋%20%20&height=200&fontSize=100)
 
 🙋 Hi! I am a web developer using java<br>
 I'm not good enough, but I'm dreaming of becoming a great developer🐣😎
