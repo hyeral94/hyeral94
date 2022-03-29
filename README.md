@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=%20hye kyung%20%20&height=200&fontSize=100)
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=%20HyeKyung🐶👋%20%20&height=200&fontSize=100)
 
 🙋 Hi! I am a web developer using java<br>
