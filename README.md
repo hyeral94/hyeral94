@@ -4,6 +4,7 @@
 I'm not good enough, but I'm dreaming of becoming a great developer🐣😎
 
 I love traveling🛫 and camping⛺ and I really like dogs.🐶❤️
+
 I worked as a nurse but always dreamed of being able to improve myself😁😁
 So I'll keep trying to be a great developer!✨✨
 
