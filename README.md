@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=%20HyeKyung🐶👋%20%20&height=200&fontSize=100)
 
-🙋 Hi! I am a web developer using java<br>
+🙋 Hi! I am a web developer<br>
 I'm not good enough, but I'm dreaming of becoming a great developer🐣😎
 
 I love traveling🛫 and camping⛺ and hope to be a great developer every day✨✨
